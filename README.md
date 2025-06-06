@@ -47,7 +47,7 @@ Download your desired music file and place it in the `public/` folder as `muzika
 ## 🌐 Live Versions
 
 * **Vercel**: [https://vuka-s-sudoku.vercel.app](https://vuka-s-sudoku.vercel.app)
-* **Netlify**: *Coming soon – deploying next!*
+* **Netlify (custom)**: [https://vuka-sudoku.netlify.app](https://vuka-sudoku.netlify.app)
 
 ## 👨‍👩‍👧 For Parents
 

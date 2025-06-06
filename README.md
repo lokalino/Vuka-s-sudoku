@@ -44,6 +44,21 @@ Then open in your browser: `http://localhost:5173`
 
 Download your desired music file and place it in the `public/` folder as `muzika.mp3`. The game will automatically play it on load.
 
+## 🌐 Live Versions
+
+* **Vercel**: [https://vuka-s-sudoku.vercel.app](https://vuka-s-sudoku.vercel.app)
+* **Netlify**: *Coming soon – deploying next!*
+
+## 👨‍👩‍👧 For Parents
+
+This game is designed with love and simplicity so young children can enjoy solving Sudoku visually without pressure. If you play with your child:
+
+* Let them click a square and then pick a number from below
+* Encourage them to try different options – there's an Undo button
+* Celebrate when they finish – there's even fireworks!
+
+Playing together makes it even more fun and helps build logic and focus skills.
+
 ---
 
 I hope another kid enjoys this just half as much as Vuka did while we tested every square together.
